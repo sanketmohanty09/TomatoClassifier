@@ -9,6 +9,6 @@ There are 10 different types of diseased leaf.And there are 18k images in the tr
 
 2-Model used and Performance
 
-Here I have tried transfer learning on the Inception v3 and I got a accuracy of 85% on both the training and test dataset within 5 epochs
+Here I have tried transfer learning on the Inception v3 and I got a accuracy of 85% on both the training and test dataset with 5 epochs
 
 
